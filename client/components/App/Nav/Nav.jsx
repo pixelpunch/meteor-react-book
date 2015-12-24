@@ -34,4 +34,3 @@ Nav = React.createClass({
     
 });
 
-this.refs.leftNav.toggle();
